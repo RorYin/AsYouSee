@@ -1,10 +1,10 @@
 # AsYouSee
 Mini Project Using Python / airtable api / dropbox
-The contents streamed on this .exe is copyright material taken from torrent ,to prevent any strikes i have not provided the source code 
+The contents streamed on this .exe are souced torrent and other public domain on internet ,to prevent any issues i have not provided the source code 
 
-The contents streamed in the app are sourced from torrents ,in case of any discrepancies in copyright issues ,the developer is not responsible 
+The contents streamed in the app are sourced from torrents ,the developer is not responsible for any discrepancies regarding copyright issues. 
 
-## The app is for educational purposes ,do not abuse 
+## The app is for educational purposes ,do not abuse it
 
 
 ### I have to keep this repo private for some time ,if any issues 
